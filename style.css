@@ -1,0 +1,25 @@
+body{
+    background-image: url(painel-tecido-sublimado-3d-cinema-pipoca-500m-x-300m-D_NQ_NP_700617-MLB27913564721_082018-F.jpg);
+    background-size: 100%
+}
+
+button{
+    margin: 10px;
+}
+H1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100PX;
+}
+
+.botao-FILMES-DE-CRIANÇAS{
+ background-color:rgb(228, 188, 59);
+}
+
+.botao-FILMES-PARA-ADOLESENTES{
+    background-color: rgb(83, 81, 81)
+}
+
+.botao-FILMES-PARA-ADULTOS{
+    background-color: rgb(240, 227, 57)
+}
+
